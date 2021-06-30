@@ -1,2 +1,7 @@
 # Helllop-World
-Just new repository
+
+
+Hi- Humans
+
+I like monkeys and bananas
+I like singing in the shower
