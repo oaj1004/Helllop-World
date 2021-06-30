@@ -1,2 +1,2 @@
 # Helllop-World
-Just new repo
+Just new repository
